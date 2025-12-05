@@ -1,4 +1,4 @@
 # new project
 
 this is my new project
-created by shradha khapra
+created by shradha khapra.
